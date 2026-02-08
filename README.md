@@ -43,7 +43,6 @@ Hands-on projects focused on **alert logic, telemetry validation, and investigat
 📁 soc-detection-labs/
 ├── splunk-email-phishing-lab
 ├── endpoint-detection-labs
-└── azure-sentinel-detection-labs
 ```
 
 Each lab includes:
@@ -59,22 +58,14 @@ Each lab includes:
 
 - **SIEM:** Splunk, Microsoft Sentinel
 - **Query Languages:** SPL, KQL
-- **Email Analysis:** RFC 5322, MIME, phishing indicators
+- **Email Analysis:** phishing indicators
 - **Endpoint Telemetry:** Windows Event Logs, Sysmon
 - **Frameworks:** MITRE ATT&CK, NIST IR
 - **Automation & Scripting:** Python (IOC extraction, enrichment)
 
 ---
 
-## 🧠 How to Review This Portfolio (Recruiter-Friendly)
 
-If you’re reviewing this portfolio:
-
-1. Start with the **Splunk Email Phishing Lab** — it highlights parsing, detection, and SOC thinking
-2. Review detection queries and validation steps
-3. Note the emphasis on **data quality, repeatability, and documentation**
-
-These are the same skills used daily by SOC analysts and detection engineers.
 
 ---
 
@@ -82,7 +73,6 @@ These are the same skills used daily by SOC analysts and detection engineers.
 
 - Advanced phishing campaign analytics
 - Risk-based alerting in Splunk
-- Azure Sentinel end-to-end detection pipelines
 - Ticketing & case management integrations
 
 ---
@@ -96,5 +86,5 @@ These are the same skills used daily by SOC analysts and detection engineers.
 
 ---
 
-> **Philosophy:** Reliable detections start with reliable data. This portfolio reflects that principle in every lab.
+
 
