@@ -1,9 +1,5 @@
 # SOC-Detection-Engineering-Labs
-Hi — I’m **David Brown**, a cybersecurity professional focused on **Security Operations (SOC), detection engineering, and SIEM-based threat monitoring**. This portfolio showcases hands-on labs that emphasize **real-world SOC workflows**, data quality, detection logic, and investigation-ready telemetry.
 
-My work prioritizes **getting the data right first** — ingestion, parsing, normalization — before building alerts, dashboards, and response workflows. Every project here is designed to mirror how modern SOC teams actually operate.
-
----
 
 ## 🎯 Core Focus Areas
 
